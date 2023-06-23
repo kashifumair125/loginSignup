@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginSignup</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet , Sign Up !</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="already_registered_sign_in">Already Registered , Sign In !</string>
+</resources>
